@@ -1,0 +1,10 @@
+As a developer, I want to build an ecommerce website. It needs to have following core functionalities:
+• Registration Module.
+• Login through username and password with authentication using an OTP.
+• Change Password.
+• Forgot Password.
+• Product Catalog with amount, images, description.
+• Add to Cart.
+• Checkout and Payment Module.
+
+Please suggest a high level design to implement this website.
